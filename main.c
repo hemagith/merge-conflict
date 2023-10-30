@@ -5,6 +5,12 @@ Initial Function()
   //Sample Code
 }
 
+feature2
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+
 feature1
 feature1()
 {
@@ -16,6 +22,7 @@ Initial Security()
 master
 }
 
+master
 
 
 }
